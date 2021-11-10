@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<img src="https://github.com/Anthony-Raf/anthony-raf/blob/main/cover-modified.png" height="200">
+<!--<img src="https://github.com/Anthony-Raf/anthony-raf/blob/main/cover-modified.png" height="200">-->
 <img src="https://github-readme-stats.vercel.app/api?username=Anthony-Raf&show_icons=true&theme=graywhite">
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Raf&theme=graywhite">-->
 <p>
