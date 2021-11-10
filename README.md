@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/Anthony-Raf/anthony-raf/blob/main/img/cover.png)
+<!--![Cover](https://github.com/Anthony-Raf/anthony-raf/blob/main/img/cover.png)-->
+<img src="https://github.com/Anthony-Raf/anthony-raf/blob/main/img/cover.png" id="cover" style="border-radius: 12px">
