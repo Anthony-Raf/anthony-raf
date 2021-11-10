@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![Cover](https://github.com/Anthony-Raf/anthony-raf/blob/main/img/cover.png)-->
-<img src="https://github.com/Anthony-Raf/anthony-raf/blob/main/img/cover.png" id="cover" style="border-radius: 12px">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-Raf)](https://github.com/anuraghazra/github-readme-stats)
+
